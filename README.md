@@ -6,4 +6,4 @@ theme + plugin translation via _e('string to translate', 'theme-name');  __plugi
 
 dev plugins: __Simply Show Hooks__, __Show Current Template__
 
-wp - woocommerce theme woodmart (download from prowebber)
+wp - woocommerce theme woodmart/Kadence (download from prowebber (elementor/gutenberg))
